@@ -1,6 +1,4 @@
-# Simulador de examen — Ingeniería de Software 3
-
-Simulador web (HTML/CSS/JS puro, sin dependencias) del **Cuestionario General de Repaso — Unidades 1 a 5** de Ingeniería de Software 3 (Ing. Informática, 3° curso — Docente: Juan Ramón Maqueda).
+).
 
 ## Contenido
 
